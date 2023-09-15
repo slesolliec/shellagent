@@ -1,0 +1,16 @@
+{
+  "name": "shellagent",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "colors": "^1.4.0",
+    "openai": "^4.7.0",
+    "stylelint-config-recess-order": "^4.0.0",
+    "stylelint-config-recommended": "^12.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.49.0"
+  }
+}
